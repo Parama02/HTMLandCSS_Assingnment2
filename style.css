@@ -1,0 +1,17 @@
+body{
+    font-family: 'Lato', sans-serif;
+    background-color: antiquewhite;
+}
+
+.aaa{
+    font-size: 15px;
+    font-weight: 300;
+}
+.bbb{
+    font-size: 20px;
+    font-weight: 600;
+}
+.ddd{
+    font-size: xx-small;
+    font-weight: 300;
+}
